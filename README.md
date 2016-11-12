@@ -1,2 +1,2 @@
 # MyFramework
-A personal project of a micro-framework
+A personal project of a micro-framework for study.
